@@ -3,6 +3,7 @@ from os.path import join, abspath, dirname
 from setuptools import setup, find_packages
 import os
 
+
 requirementPath = 'requirements.txt'
 install_requires = []
 
